@@ -16,5 +16,8 @@ I do think there's a tf state issue with working with local modules from the fil
 $ ./pull.sh <aws_profile>
 ````
 
+# todos
+- [ ] select multiple objects
+
 # license
 MIT
